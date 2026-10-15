@@ -1,0 +1,20 @@
+{
+  "inspectionDate": "2026-10-08",
+  "rating": "good",
+  "ratingLabel": "Satisfaisant",
+  "inspectionContext": "Re-contrôle",
+  "name": "INTER PIZZA",
+  "siret": "53293848700024",
+  "activity": "Restaurants",
+  "destination": "Restauration rapide",
+  "address": {
+    "street": "RUE BERTIN LALANDE",
+    "postalCode": "33510",
+    "city": "Andernos-les-Bains",
+    "department": "33"
+  },
+  "geo": {
+    "lat": 44.744672,
+    "lon": -1.092849
+  }
+}
